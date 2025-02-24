@@ -3,12 +3,11 @@ title: "A semi-analytical model of RF condensation that can handle localized pow
 collection: publications
 category: manuscripts
 permalink: https://pubs.aip.org/aip/pop/article/31/3/032116/3279299
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+excerpt: 'We study how to use radio frequencies to suppress instabilities (i.e. magnetic islands) in a tokamak.'
+date: 2024-03-26
+venue: 'Physics of Plasmas'
 slidesurl: #slides
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+A nonlinear effect, RF (radio frequency) condensation, can be used to facilitate RF stabilization of magnetic islands. Previously studied semi-analytical models for RF condensation are suited mainly for broad deposition profiles and are unable to handle power depositions that are localized in the interior of a magnetic island. The power deposition profile of electron cyclotron waves, in particular, can be highly localized near a cyclotron resonance. Here, a model is developed that can handle both localized profiles and broad profiles. This allows a comparison of RF condensation for narrow vs broad deposition profiles, and it allows a study of the dependence of RF condensation of localized deposition profiles on key parameters.
