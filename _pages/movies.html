@@ -26,22 +26,9 @@ I hope you appreciate them and learn a little bit about my artistic tastes in th
             <td>{{ movie.title }}</td>
             <td>{{ movie.year }}</td>
             <td>{{ movie.rating }}</td>
-            <input type="checkbox" class="watch-checkbox" data-title="{{ movie.title }}">
+            <td><input type="checkbox" {% if movie.watched %}checked{% endif %}></td>
         </tr>
         {% endfor %}
     </tbody>
 </table>
-<script>
-    document.addEventListener("DOMContentLoaded", function() {
-        // Load checkbox states from localStorage
-        document.querySelectorAll(".watch-checkbox").forEach(checkbox => {
-            const title = checkbox.getAttribute("data-title");
-            checkbox.checked = localStorage.getItem(title) === "true";
 
-            // Save state when checkbox is clicked
-            checkbox.addEventListener("change", function() {
-                localStorage.setItem(title, this.checked);
-            });
-        });
-    });
-</script>
