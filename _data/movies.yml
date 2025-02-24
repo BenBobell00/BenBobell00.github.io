@@ -1051,8 +1051,56 @@ movies:
     year: 2013
     rating: 8
     watched: false
-  - title: "Invincible"
-    year: 2021
+  - title: "Star Wars Episode IV: A New Hope"
+    year: 1977
+    rating: 8
+    watched: false
+  - title: "La La Land"
+    year: 2016
+    rating: 8
+    watched: false
+  - title: "The Lighthouse"
+    year: 2019
+    rating: 8
+    watched: false
+  - title: "Hunter x Hunter"
+    year: 2011
+    rating: 8
+    watched: false
+  - title: "Shrek"
+    year: 2001
+    rating: 8
+    watched: false
+  - title: "One Flew Over the Cuckoo's Nest"
+    year: 1975
+    rating: 8
+    watched: false
+  - title: "Donnie Darko"
+    year: 2001
+    rating: 8
+    watched: false
+  - title: "The Wizard of Oz"
+    year: 1939
+    rating: 8
+    watched: false
+  - title: "Get Out"
+    year: 2017
+    rating: 8
+    watched: false
+  - title: "The Big Lebowski"
+    year: 1998
+    rating: 8
+    watched: false
+  - title: "The Elephant Man"
+    year: 1980
+    rating: 8
+    watched: false
+  - title: "Airplane"
+    year: 1980
+    rating: 8
+    watched: false
+  - title: "Anatomy of a Fall"
+    year: 2023
     rating: 8
     watched: false
   
