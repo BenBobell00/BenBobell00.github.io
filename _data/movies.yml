@@ -739,10 +739,6 @@ movies:
     year: 2018
     rating: 9
     watched: false
-  - title: "Cold War"
-    year: 2018
-    rating: 9
-    watched: false
   - title: "Bambi"
     year: 1942
     rating: 9
