@@ -507,3 +507,80 @@ movies:
     year: 2008
     rating: 9
     watched: false
+  - title: "A Streetcar Named Desire"
+    year: 1951
+    rating: 9
+    watched: false
+  - title: "Raging Bull"
+    year: 1980
+    rating: 9
+    watched: false
+  - title: "Birdman or (The Unexpected Virtue of Ignorance)"
+    year: 2014
+    rating: 9
+    watched: false
+  - title: "Barry Lyndon"
+    year: 1975
+    rating: 9
+    watched: false
+  - title: "Fantastic Mr. Fox"
+    year: 2009
+    rating: 9
+    watched: false
+  - title: "Close Encounters of the Third Kind"
+    year: 1977
+    rating: 9
+    watched: false
+  - title: "Metropolis"
+    year: 1928
+    rating: 9
+    watched: false
+  - title: "A Silent Voice"
+    year: 2016
+    rating: 9
+    watched: false
+  - title: "The Apartment"
+    year: 1960
+    rating: 9
+    watched: false
+  - title: "After Hours"
+    year: 1985
+    rating: 9
+    watched: false
+  - title: "Threads"
+    year: 1984
+    rating: 9
+    watched: false
+  - title: "West Side Story"
+    year: 1961
+    rating: 9
+    watched: false
+  - title: "Silence"
+    year: 2016
+    rating: 9
+    watched: false
+  - title: "Chungking Express"
+    year: 1994
+    rating: 9
+    watched: false
+  - title: "The Iron Giant"
+    year: 1990
+    rating: 9
+    watched: false
+  - title: "Akira"
+    year: 1988
+    rating: 9
+    watched: false
+  - title: "Ran"
+    year: 1985
+    rating: 9
+    watched: false
+  - title: "The Conversation"
+    year: 1974
+    rating: 9
+    watched: false
+  - title: "Kiki's Delivery Service"
+    year: 1989
+    rating: 9
+    watched: false
+    
