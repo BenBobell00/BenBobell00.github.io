@@ -583,4 +583,127 @@ movies:
     year: 1989
     rating: 9
     watched: false
-    
+  - title: "Snow White and the Seven Dwarves"
+    year: 1937
+    rating: 9
+    watched: false
+  - title: "John Adams"
+    year: 2008
+    rating: 9
+    watched: false
+  - title: "Bonnie and Clyde"
+    year: 1967
+    rating: 9
+    watched: false
+  - title: "The Odd Couple"
+    year: 1968
+    rating: 9
+    watched: false
+  - title: "The French Connection"
+    year: 1971
+    rating: 9
+    watched: false
+  - title: "M"
+    year: 1931
+    rating: 9
+    watched: false
+  - title: "Violet Evergarden"
+    year: 2018
+    rating: 9
+    watched: false
+  - title: "The Last Temptation of Christ"
+    year: 1988
+    rating: 9
+    watched: false
+  - title: "Ordinary People"
+    year: 1980
+    rating: 9
+    watched: false
+  - title: "Drive my Car"
+    year: 2021
+    rating: 9
+    watched: false
+  - title: "The Wild Bunch"
+    year: 1969
+    rating: 9
+    watched: false
+  - title: "Paths of Glory"
+    year: 1957
+    rating: 9
+    watched: false
+  - title: "The Wind Rises"
+    year: 2013
+    rating: 9
+    watched: false
+  - title: "The Third Man"
+    year: 1939
+    rating: 9
+    watched: false
+  - title: "The King of Comedy"
+    year: 1982
+    rating: 9
+    watched: false
+  - title: "It Happened One Night"
+    year: 1934
+    rating: 9
+    watched: false
+  - title: "The Bridge Over the River Kwai"
+    year: 1957
+    rating: 9
+    watched: false
+  - title: "The 400 Blows"
+    year: 1959
+    rating: 9
+    watched: false
+  - title: "The Producers"
+    year: 1967
+    rating: 9
+    watched: false
+  - title: "The Man who Shot Liberty Valence"
+    year: 1962
+    rating: 9
+    watched: false
+  - title: "High Noon"
+    year: 1952
+    rating: 9
+    watched: false
+  - title: "Amour"
+    year: 2012
+    rating: 9
+    watched: false
+  - title: "The Night of the Hunter"
+    year: 1955
+    rating: 9
+    watched: false
+  - title: "Cries and Whispers"
+    year: 1972
+    rating: 9
+    watched: false
+  - title: "Anatomy of a Murder"
+    year: 1959
+    rating: 9
+    watched: false
+  - title: "Jeanne Dielman, 23, quai du commerce, 1080 Bruxelles"
+    year: 1975
+    rating: 9
+    watched: false
+  - title: "Red River"
+    year: 1948
+    rating: 9
+    watched: false
+  - title: "House"
+    year: 1977
+    rating: 9
+    watched: false
+  - title: "Serial Experiments Lain"
+    year: 1998
+    rating: 9
+    watched: false
+  - title: "The Long Goodbye"
+    year: 1973
+    rating: 9
+    watched: false
+  - title: "Wild Strawberries"
+    year: 1957
+    rating: 9
+    watched: false
