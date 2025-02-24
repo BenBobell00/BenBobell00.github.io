@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Theoretical Condensed Matter Physics an Quantum Information Theory, University of Colorado, Boulder, 2029 (expected)
+* A.B. in Physics, _magna cum laude_, Princeton University, 2023
 
 Work experience
 ======
