@@ -399,3 +399,15 @@ movies:
     year: 2014
     rating: 9
     watched: false
+  - title: "The Zone of Interest"
+    year: 2023
+    rating: 9
+    watched: false
+  - title: "Eraserhead"
+    year: 1977
+    rating: 9
+    watched: false
+  - title: "Once Upon a Time in the West"
+    year: 1968
+    rating: 9
+    watched: false
