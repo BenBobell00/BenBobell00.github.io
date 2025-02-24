@@ -16,6 +16,10 @@ main:
     
   - title: "Movies"
     url: /movies/
+  
+  - title: "Music"
+    url: /music/
+
         
   - title: "Blog Posts"
     url: /year-archive/
@@ -23,5 +27,3 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
