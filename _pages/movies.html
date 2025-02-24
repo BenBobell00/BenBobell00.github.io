@@ -14,4 +14,25 @@ I hope you appreciate them and learn a little bit about my artistic tastes in th
 {% for post in site.movies %}
   {% include archive-single.html %}
 {% endfor %}
+# My Favorite Movies
 
+<table border="1">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Year</th>
+            <th>Director</th>
+            <th>Watched</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for movie in site.data.movies.movies %}
+        <tr>
+            <td>{{ movie.title }}</td>
+            <td>{{ movie.year }}</td>
+            <td>{{ movie.director }}</td>
+            <td><input type="checkbox" {% if movie.watched %}checked{% endif %} disabled></td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
