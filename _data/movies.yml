@@ -39,7 +39,7 @@ movies:
     year: 2001
     rating: 10
     watched: false
-  - title: "2001: A Space Odyssey
+  - title: "2001: A Space Odyssey"
     year: 1968
     rating: 10
     watched: false
@@ -79,7 +79,7 @@ movies:
     year: 1998
     rating: 10
     watched: false
-  - title: "Some Like it Hot "
+  - title: "Some Like it Hot"
     year: 1959
     rating: 10
     watched: false
