@@ -1,13 +1,13 @@
 movies:
   - title: "Inception"
     year: 2010
-    director: "Christopher Nolan"
+    rating: 8
     watched: false
   - title: "The Matrix"
     year: 1999
-    director: "Lana & Lilly Wachowski"
+    rating: 7
     watched: true
   - title: "Interstellar"
     year: 2014
-    director: "Christopher Nolan"
+    rating: 9
     watched: false
