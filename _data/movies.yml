@@ -939,4 +939,92 @@ movies:
     year: 2014
     rating: 9
     watched: false
+  - title: "Invincible"
+    year: 2021
+    rating: 8
+    watched: false
+  - title: "A Real Pain"
+    year: 2024
+    rating: 8
+    watched: false
+  - title: "Mad Men"
+    year: 2007
+    rating: 8
+    watched: false
+  - title: "Oppenheimer"
+    year: 2023
+    rating: 8
+    watched: false
+  - title: "Inception"
+    year: 2010
+    rating: 8
+    watched: false
+  - title: "Poor Things"
+    year: 2023
+    rating: 8
+    watched: false
+  - title: "The Dark Knight"
+    year: 2008
+    rating: 8
+    watched: false
+  - title: "Inglourious Basterds"
+    year: 2009
+    rating: 8
+    watched: false
+  - title: "Downton Abbey"
+    year: 2010
+    rating: 8
+    watched: false
+  - title: "Goodfellas"
+    year: 1990
+    rating: 8
+    watched: false
+  - title: "The Matrix"
+    year: 1999
+    rating: 8
+    watched: false
+  - title: "Django Unchained"
+    year: 2012
+    rating: 8
+    watched: false
+  - title: "Star Trek: Deep Space Nine"
+    year: 1993
+    rating: 8
+    watched: false
+  - title: "The Princess Bride"
+    year: 1987
+    rating: 8
+    watched: false
+  - title: "The Marvelous Mrs. Maisel"
+    year: 2017
+    rating: 8
+    watched: false
+  - title: "Forrest Gump"
+    year: 1994
+    rating: 8
+    watched: false
+  - title: "Nosferatu: A Symphony of Horror"
+    year: 1922
+    rating: 8
+    watched: false
+  - title: "Vinland Saga"
+    year: 2019
+    rating: 8
+    watched: false
+  - title: "Arrival"
+    year: 2016
+    rating: 8
+    watched: false
+  - title: "Killers of the Flower Moon"
+    year: 2023
+    rating: 8
+    watched: false
+  - title: "The Good Place"
+    year: 2016
+    rating: 8
+    watched: false
+  - title: "Back to the Future"
+    year: 1985
+    rating: 8
+    watched: false
   
