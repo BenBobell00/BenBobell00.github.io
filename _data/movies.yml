@@ -71,3 +71,47 @@ movies:
     year: 1946
     rating: 10
     watched: false
+ - title: "Moonlight"
+    year: 2016
+    rating: 10
+    watched: false
+ - title: "Cowboy Bebop"
+    year: 1998
+    rating: 10
+    watched: false
+ - title: "Some Like it Hot "
+    year: 1959
+    rating: 10
+    watched: false
+ - title: "Chinatown"
+    year: 1974
+    rating: 10
+    watched: false
+ - title: "Rear Window"
+    year: 1954
+    rating: 10
+    watched: false
+ - title: "Vertigo"
+    year: 1958
+    rating: 10
+    watched: false
+ - title: "Perfect Blue"
+    year: 1997
+    rating: 10
+    watched: false
+ - title: "Stalker"
+    year: 1979
+    rating: 10
+    watched: false
+ - title: "Ghost in the Shell"
+    year: 1995
+    rating: 10
+    watched: false
+ - title: "Sunset Boulevard"
+    year: 1950
+    rating: 10
+    watched: false
+ - title: "Belle de Jour"
+    year: 1967
+    rating: 10
+    watched: false
