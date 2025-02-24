@@ -2,7 +2,7 @@
 title: "A semi-analytical model of RF condensation that can handle localized power depositions"
 collection: publications
 category: manuscripts
-permalink: https://pubs.aip.org/aip/pop/article/31/3/032116/3279299
+permalink: /publications/plasma
 excerpt: 'We study how to use radio frequencies to suppress instabilities (i.e. magnetic islands) in a tokamak.'
 date: 2024-03-26
 venue: 'Physics of Plasmas'
