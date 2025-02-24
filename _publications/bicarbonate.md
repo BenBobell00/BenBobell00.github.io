@@ -2,7 +2,7 @@
 title: "Modeling bicarbonate formation in an alkaline solution with multi-level quantum mechanics/molecular dynamics simulations"
 collection: publications
 category: manuscripts
-permalink: /publications/bicarbonate/
+permalink: /publications/bicarbonate
 excerpt: 'We model bicarbonate formation in alkaline solution. The goal is to better understand this process and utilize it for carbon capture technologies.'
 date: 2024-06-27
 venue: 'Molecular Physics'
