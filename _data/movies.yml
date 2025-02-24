@@ -311,3 +311,91 @@ movies:
     year: 1962
     rating: 10
     watched: false
+  - title: "The Brutalist"
+    year: 2024
+    rating: 9
+    watched: false
+  - title: "Pulp Fiction"
+    year: 1994
+    rating: 9
+    watched: false
+  - title: "Star Trek: The Next Generation"
+    year: 1987
+    rating: 9
+    watched: false
+  - title: "The Lord of the Rings: The Fellowship of the Ring"
+    year: 2001
+    rating: 9
+    watched: false
+  - title: "Parks and Recreation"
+    year: 2009
+    rating: 9
+    watched: false
+  - title: "Mulholland Drive"
+    year: 2001
+    rating: 9
+    watched: false
+  - title: "Eternal Sunshine of the Spotless Mind"
+    year: 2004
+    rating: 9
+    watched: false
+  - title: "Blade Runner 2049"
+    year: 2017
+    rating: 9
+    watched: false
+  - title: "Star Trek"
+    year: 1966
+    rating: 9
+    watched: false
+  - title: "Whiplash"
+    year: 2014
+    rating: 9
+    watched: false
+  - title: "12 Angry Men"
+    year: 1957
+    rating: 9
+    watched: false
+  - title: "No Country for Old Men"
+    year: 2007
+    rating: 9
+    watched: false
+  - title: "Everything Everywhere All at Once"
+    year: 2022
+    rating: 9
+    watched: false
+  - title: "The Lion King"
+    year: 1994
+    rating: 9
+    watched: false
+  - title: "The Lord of the Rings: The Return of the King"
+    year: 2024
+    rating: 9
+    watched: false
+  - title: "The Twilight Zone"
+    year: 1959
+    rating: 9
+    watched: false
+  - title: "Saving Private Ryan"
+    year: 1998
+    rating: 9
+    watched: false
+  - title: "Past Lives"
+    year: 2023
+    rating: 9
+    watched: false
+  - title: "Spider Man: Across the Spider-Verse"
+    year: 2023
+    rating: 9
+    watched: false
+  - title: "The Good, the Bad, and the Ugly"
+    year: 1966
+    rating: 9
+    watched: false
+  - title: "The Pianist"
+    year: 2002
+    rating: 9
+    watched: false
+  - title: "The Grand Budapest Hotel"
+    year: 2014
+    rating: 9
+    watched: false
