@@ -479,3 +479,20 @@ movies:
     year: 2016
     rating: 9
     watched: false
+  - title: "Children of Men"
+    year: 2006
+    rating: 9
+    watched: false
+  - title: "Beauty and the Beast"
+    year: 1990
+    rating: 9
+    watched: false
+  - title: "Under the Skin"
+    year: 2013
+    rating: 9
+    watched: false
+  - title: "Portrait of a Lady on Fire"
+    year: 2019
+    rating: 9
+    watched: false
+    
