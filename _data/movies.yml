@@ -115,3 +115,31 @@ movies:
     year: 1967
     rating: 10
     watched: false
+  - title: "Boyhood"
+    year: 2014
+    rating: 10
+    watched: false
+  - title: "Network"
+    year: 1976
+    rating: 10
+    watched: false
+  - title: "Citzen Kane"
+    year: 1941
+    rating: 10
+    watched: false
+  - title: "My Neighbor Totoro"
+    year: 1988
+    rating: 10
+    watched: false
+  - title: "The Seventh Seal"
+    year: 1957
+    rating: 10
+    watched: false
+  - title: "Paprika"
+    year: 2006
+    rating: 10
+    watched: false
+  - title: "Solaris"
+    year: 1972
+    rating: 10
+    watched: false
