@@ -2,7 +2,7 @@
 title: "A semi-analytical model of RF condensation that can handle localized power depositions"
 collection: publications
 category: manuscripts
-permalink: [A semi-analytical model of RF condensation that can handle localized power depositions](https://pubs.aip.org/aip/pop/article/31/3/032116/3279299)
+permalink: https://pubs.aip.org/aip/pop/article/31/3/032116/3279299
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
 venue: 'Journal 1'
