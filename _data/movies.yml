@@ -495,4 +495,15 @@ movies:
     year: 2019
     rating: 9
     watched: false
-    
+  - title: "Paris, Texas"
+    year: 1984
+    rating: 9
+    watched: false
+  - title: "Rosemary's Baby"
+    year: 1968
+    rating: 9
+    watched: false
+  - title: "The Hurt Locker"
+    year: 2008
+    rating: 9
+    watched: false
