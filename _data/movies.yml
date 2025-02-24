@@ -707,3 +707,148 @@ movies:
     year: 1957
     rating: 9
     watched: false
+  - title: "Stagecoach"
+    year: 1939
+    rating: 9
+    watched: false
+  - title: "Arsenic and Old Lace"
+    year: 1944
+    rating: 9
+    watched: false
+  - title: "The Big Sleep"
+    year: 1946
+    rating: 9
+    watched: false
+  - title: "The Grapes of Wrath"
+    year: 1940
+    rating: 9
+    watched: false
+  - title: "The White Ribbon"
+    year: 2009
+    rating: 9
+    watched: false
+  - title: "Le Samourai"
+    year: 1967
+    rating: 9
+    watched: false
+  - title: "A Woman Under the Influence"
+    year: 1974
+    rating: 9
+    watched: false
+  - title: "Cold War"
+    year: 2018
+    rating: 9
+    watched: false
+  - title: "Cold War"
+    year: 2018
+    rating: 9
+    watched: false
+  - title: "Bambi"
+    year: 1942
+    rating: 9
+    watched: false
+  - title: "Repulsion"
+    year: 1965
+    rating: 9
+    watched: false
+  - title: "Memories"
+    year: 1995
+    rating: 9
+    watched: false
+  - title: "The Tale of Princess Kaguya"
+    year: 2013
+    rating: 9
+    watched: false
+  - title: "The Killing"
+    year: 1956
+    rating: 9
+    watched: false
+  - title: "Puella Magi Madoka Magica"
+    year: 2011
+    rating: 9
+    watched: false
+  - title: "Anomalisa"
+    year: 2015
+    rating: 9
+    watched: false
+  - title: "Dreams"
+    year: 1990
+    rating: 9
+    watched: false
+  - title: "Wild Strawberries"
+    year: 1957
+    rating: 9
+    watched: false
+  - title: "Clannad: Afterstory"
+    year: 2008
+    rating: 9
+    watched: false
+  - title: "Three Colors: White"
+    year: 1994
+    rating: 9
+    watched: false
+  - title: "Angel's Egg"
+    year: 1985
+    rating: 9
+    watched: false
+  - title: "L'Avventura"
+    year: 1960
+    rating: 9
+    watched: false
+  - title: "Koyaanisqatsi"
+    year: 1982
+    rating: 9
+    watched: false
+  - title: "Nostalghia"
+    year: 1983
+    rating: 9
+    watched: false
+  - title: "Mushi-Shi"
+    year: 2005
+    rating: 9
+    watched: false
+  - title: "The Kid"
+    year: 1921
+    rating: 9
+    watched: false
+  - title: "Sunrise"
+    year: 1927
+    rating: 9
+    watched: false
+  - title: "Trigun"
+    year: 1998
+    rating: 9
+    watched: false
+  - title: "Woman in the Dunes"
+    year: 1964
+    rating: 9
+    watched: false
+  - title: " Au Revoir les Enfants"
+    year: 1987
+    rating: 9
+    watched: false
+  - title: "La Jetee"
+    year: 1962
+    rating: 9
+    watched: false
+  - title: "In a Lonely Place"
+    year: 1950
+    rating: 9
+    watched: false
+  - title: "The Spirit of the Beehive"
+    year: 1973
+    rating: 9
+    watched: false
+  - title: "Quo Vadis, Aida?"
+    year: 2020
+    rating: 9
+    watched: false
+  - title: "Autumn Sonata"
+    year: 1978
+    rating: 9
+    watched: false
+  - title: "Beauty and the Beast"
+    year: 1946
+    rating: 9
+    watched: false
+  
