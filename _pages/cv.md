@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Theoretical Condensed Matter Physics an Quantum Information Theory, University of Colorado, Boulder, 2029 (expected)
+* Ph.D in Theoretical Condensed Matter Physics and Quantum Information Theory, University of Colorado, Boulder, 2029 (expected)
 * A.B. in Physics, _magna cum laude_, Princeton University, 2023
 
 Work experience
