@@ -6,7 +6,7 @@ movies:
   - title: "The Matrix"
     year: 1999
     rating: 7
-    watched: true
+    watched: false
   - title: "Interstellar"
     year: 2014
     rating: 9
