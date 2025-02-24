@@ -1027,4 +1027,32 @@ movies:
     year: 1985
     rating: 8
     watched: false
+  - title: "Kill Bill: Vol. 1"
+    year: 2003
+    rating: 8
+    watched: false
+  - title: "Kill Bill: Vol. 2"
+    year: 2004
+    rating: 8
+    watched: false
+  - title: "Death Note"
+    year: 2006
+    rating: 8
+    watched: false
+  - title: "Memento"
+    year: 2003
+    rating: 8
+    watched: false
+  - title: "Cheers"
+    year: 1982
+    rating: 8
+    watched: false
+  - title: "Her"
+    year: 2013
+    rating: 8
+    watched: false
+  - title: "Invincible"
+    year: 2021
+    rating: 8
+    watched: false
   
