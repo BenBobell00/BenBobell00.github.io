@@ -1171,4 +1171,41 @@ movies:
     year: 2004
     rating: 8
     watched: false
+  - title: "E.T the Extra-Terrestrial"
+    year: 1982
+    rating: 8
+    watched: false
+  - title: "Shane"
+    year: 1953
+    rating: 8
+    watched: false
+  - title: "Zero Dark Thirty"
+    year: 2012
+    rating: 8
+    watched: false
+  - title: "Finding Nemo"
+    year: 2003
+    rating: 8
+    watched: false
+  - title: "E.T the Extra-Terrestrial"
+    year: 1982
+    rating: 8
+    watched: false
+  - title: "Do the Right Thing"
+    year: 1989
+    rating: 8
+    watched: false
+  - title: "Who Framed Roger Rabbit"
+    year: 1988
+    rating: 8
+    watched: false
+  - title: "Up"
+    year: 2009
+    rating: 8
+    watched: false
+  - title: "Monty Python on the Holy Grail"
+    year: 1975
+    rating: 8
+    watched: false
+  
   
