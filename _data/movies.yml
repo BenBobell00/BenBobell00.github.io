@@ -311,6 +311,10 @@ movies:
     year: 1962
     rating: 10
     watched: false
+  - title: "Millenium Actress"
+    year: 2001
+    rating: 10
+    watched: false
   - title: "The Brutalist"
     year: 2024
     rating: 9
@@ -849,10 +853,6 @@ movies:
     watched: false
   - title: "A Trip to the Moon"
     year: 1902
-    rating: 9
-    watched: false
-  - title: "Millenium Actress"
-    year: 2001
     rating: 9
     watched: false
   - title: "The Big Heat"
