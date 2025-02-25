@@ -939,6 +939,10 @@ movies:
     year: 2014
     rating: 9
     watched: false
+  - title: "Aguirre, the Wrath of God"
+    year: 1972
+    rating: 9
+    watched: false
   - title: "Invincible"
     year: 2021
     rating: 8
