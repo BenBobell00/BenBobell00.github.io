@@ -1112,7 +1112,63 @@ movies:
     rating: 8
     watched: false
   - title: "The Banshees of Inisherin"
-    year: 2006
+    year: 2022
+    rating: 8
+    watched: false
+  - title: "Boogie Nights"
+    year: 1997
+    rating: 8
+    watched: false
+  - title: "Broadchurch"
+    year: 2013
+    rating: 8
+    watched: false
+  - title: "The Big Short"
+    year: 2015
+    rating: 8
+    watched: false
+  - title: "Amadeus"
+    year: 1984
+    rating: 8
+    watched: false
+  - title: "The Incredibles"
+    year: 2004
+    rating: 8
+    watched: false
+  - title: "Almost Famous"
+    year: 2000
+    rating: 8
+    watched: false
+  - title: "Ex Machina"
+    year: 2014
+    rating: 8
+    watched: false
+  - title: "Deer Hunter"
+    year: 1978
+    rating: 8
+    watched: false
+  - title: "Your Name"
+    year: 2016
+    rating: 8
+    watched: false
+  - title: "Psycho"
+    year: 1960
+    rating: 8
+    watched: false
+  - title: "Inside Out"
+    year: 2015
+    rating: 8
+    watched: false
+  - title: "Berserk"
+    year: 1997
+    rating: 8
+    watched: false
+  - title: "My Fair Lady"
+    year: 1964
+    rating: 8
+    watched: false
+  - title: "Howl's Moving Castle"
+    year: 2004
     rating: 8
     watched: false
   
