@@ -1207,5 +1207,16 @@ movies:
     year: 1975
     rating: 8
     watched: false
-  
+  - title: "American Sniper"
+    year: 2014
+    rating: 8
+    watched: false
+  - title: "The Sting"
+    year: 1973
+    rating: 8
+    watched: false
+  - title: "Code Geass"
+    year: 2006
+    rating: 8
+    watched: false
   
