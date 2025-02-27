@@ -1823,6 +1823,10 @@ movies:
     year: 2013
     rating: 8
     watched: false
+  - title: "American Sniper"
+    year: 2014
+    rating: 8
+    watched: false
     
   
 
