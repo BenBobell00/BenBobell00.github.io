@@ -1683,10 +1683,6 @@ movies:
     year: 1941
     rating: 8
     watched: false
-  - title: "Meet John Doe"
-    year: 1941
-    rating: 8
-    watched: false
   - title: "Juliet of the Spirits"
     year: 1966
     rating: 8
@@ -1795,7 +1791,7 @@ movies:
     year: 1984
     rating: 8
     watched: false
-   - title: "Mawaru Penguindrum"
+  - title: "Mawaru Penguindrum"
     year: 2011
     rating: 8
     watched: false
