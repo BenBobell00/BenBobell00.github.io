@@ -8,7 +8,7 @@ date: 2022-03-01
 location: "Princeton, New Jersey"
 ---
 
-  -Mentored undergraduates in research, course selection, and department culture as part of the Peer Physics Mentorship (PPM) program. 
+  - Mentored undergraduates in research, course selection, and department culture as part of the Peer Physics Mentorship (PPM) program. 
   
-  -Assisted admitted physics and mathematics students by providing an overview of Princeton's resources, programs, and culture.
+  - Assisted admitted physics and mathematics students by providing an overview of Princeton's resources, programs, and culture.
 
