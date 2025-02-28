@@ -7,14 +7,5 @@ venue: "Princeton University, Department of Physics"
 date: 2022-03-01
 location: "Princeton, New Jersey"
 ---
+Mentored undergraduates in research, course selection, and department culture as part of the Peer Physics Mentorship (PPM) program. Also Assisted admitted physics and mathematics students by providing an overview of Princeton's resources, programs, and culture.
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
