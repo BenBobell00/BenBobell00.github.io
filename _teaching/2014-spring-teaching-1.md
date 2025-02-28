@@ -1,7 +1,7 @@
 ---
 title: "Peer Physics Mentor"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate Mentorship"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Princeton University, Department of Physics"
 date: 2022-03-01
