@@ -1835,6 +1835,11 @@ movies:
     year: 1987
     rating: 8
     watched: false
+  - title: "The Lady Vanishes"
+    year: 1938
+    rating: 8
+    watched: false
+    
     
   
 
