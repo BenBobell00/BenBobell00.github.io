@@ -315,6 +315,10 @@ movies:
     year: 2001
     rating: 10
     watched: false
+  - title: "Flow"
+    year: 2024
+    rating: 10
+    watched: false
   - title: "The Brutalist"
     year: 2024
     rating: 9
@@ -1825,6 +1829,10 @@ movies:
     watched: false
   - title: "American Sniper"
     year: 2014
+    rating: 8
+    watched: false
+  - title: "Withnail and I"
+    year: 1987
     rating: 8
     watched: false
     
