@@ -10,6 +10,9 @@ location: "Boulder, CO"
 - Taught private 50 minute sections (called recitations) for the below courses:
   - Physics 1110 (General Physics I)
   - Physics 1120 (General Physics II)
-- Graded homeworks for each section and held 3 hours of office hours per week.
+- Graded for the following courses:
+  - Physics 1110 (General Physics I)
+  - Physics 1120 (General Physics II)
+  - Physics 4410 (Quantum Mechanics II)
 
 
