@@ -7,12 +7,11 @@ venue: "University of Colorado, Boulder"
 date: 2024-09-01
 location: "Boulder, CO"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-PHYSICS 1110
+- Taught private 50 minute sections (called recitations) for the below courses.
+- Graded homeworks for each section and held 3 hours of office hours per week.
+Physics 1110 (General Physics I)
 ======
 
-PHYSICS 1120
+Physics 1120 (General Physics II)
 ======
 
