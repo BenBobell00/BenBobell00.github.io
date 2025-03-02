@@ -7,5 +7,6 @@ venue: "Princeton University, Department of Physics"
 date: 2023-09-23
 location: "Princeton, NJ"
 ---
+- Tutored students taking statistical mechanics and condensed matter physics courses.
 
-
+ 
