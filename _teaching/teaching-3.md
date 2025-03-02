@@ -1,21 +1,18 @@
 ---
-title: "Teaching experience 3"
+title: "Teaching Assistant"
 collection: teaching
-type: "Workshop"
+type: "Teaching"
 permalink: /teaching/teaching-3
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "University of Colorado, Boulder"
+date: 2024-09-01
+location: "Boulder, CO"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+PHYSICS 1110
 ======
 
-Heading 2
-======
-
-Heading 3
+PHYSICS 1120
 ======
 
