@@ -335,6 +335,10 @@ movies:
     year: 2007
     rating: 10
     watched: false
+  - title: "Seven Samurai"
+    year: 1954
+    rating: 10
+    watched: false
   - title: "The Brutalist"
     year: 2024
     rating: 9
