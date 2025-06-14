@@ -6,9 +6,8 @@ tags:
   - information
 ---
 
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
-
-Science Communication is Hard
+This is a sample blog post. 
+An Introduction
 ======
 
 A fun story
