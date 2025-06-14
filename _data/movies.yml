@@ -327,6 +327,14 @@ movies:
     year: 1962
     rating: 10
     watched: false
+  - title: "No Country for Old Men"
+    year: 2007
+    rating: 10 
+    watched: false
+  - title: "There Will be Blood"
+    year: 2007
+    rating: 10
+    watched: false
   - title: "The Brutalist"
     year: 2024
     rating: 9
@@ -369,10 +377,6 @@ movies:
     watched: false
   - title: "12 Angry Men"
     year: 1957
-    rating: 9
-    watched: false
-  - title: "No Country for Old Men"
-    year: 2007
     rating: 9
     watched: false
   - title: "Everything Everywhere All at Once"
@@ -973,6 +977,22 @@ movies:
     watched: false
   - title: "The Salesman"
     year: 2016
+    rating: 9
+    watched: false
+  - title: "Grizzly Man"
+    year: 2005
+    rating: 9
+    watched: false
+  - title: "The Shining"
+    year: 1980
+    rating: 9
+    watched: false
+  - title: "Nickel Boys"
+    year: 2024
+    rating: 9
+    watched: false
+  - title: "Before Sunset"
+    year: 2004
     rating: 9
     watched: false
   - title: "Invincible"
@@ -1885,6 +1905,62 @@ movies:
     watched: false
   - title: "A Hero"
     year: 2021
+    rating: 8
+    watched: false
+  - title: "The Master"
+    year: 2012
+    rating: 8
+    watched: false
+  - title: "The Tree of Life"
+    year: 2011
+    rating: 8
+    watched: false
+  - title: "A Pigeon Sat on a Branch Reflecting on Existence"
+    year: 2014
+    rating: 8
+    watched: false
+  - title: "Thelma and Louise"
+    year: 1991
+    rating: 8
+    watched: false
+  - title: "Brute Force"
+    year: 1947
+    rating: 8
+    watched: false
+  - title: "The Thin Red Line"
+    year: 1998
+    rating: 8
+    watched: false
+  - title: "The Wild Robot"
+    year: 2024
+    rating: 8
+    watched: false
+  - title: "Nomadland"
+    year: 2020
+    rating: 8
+    watched: false
+  - title: "Before Sunrise"
+    year: 1995
+    rating: 8
+    watched: false
+  - title: "A Hero"
+    year: 2021
+    rating: 8
+    watched: false
+  - title: "Space Dandy"
+    year: 2014
+    rating: 8
+    watched: false
+  - title: "Sound of Metal"
+    year: 2019
+    rating: 8
+    watched: false
+  - title: "Puss and Boots: The Last Wish"
+    year: 2022
+    rating: 8
+    watched: false
+  - title: "Patton"
+    year: 1970
     rating: 8
     watched: false
     
