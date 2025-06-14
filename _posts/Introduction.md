@@ -1,7 +1,7 @@
 ---
 title: 'Introduction to the Blog'
 date: 2025-06-14
-permalink: /posts/2025/06/blog-post-2/
+permalink: /posts/blog-post-1/
 tags:
   - information
 ---
